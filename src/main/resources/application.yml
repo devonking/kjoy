@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: kjoy
+
+server:
+  port: 8088
